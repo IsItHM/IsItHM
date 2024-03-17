@@ -1,6 +1,6 @@
-- I’m interested in web development,App development and Quantum computing algorithms.
--  I’m currently learning Qiskit and Quantum algorithms.
-- I’m looking to collaborate on different projects related to Quantum Computing 
+- I’m interested in Machine Learning  and Quantum computing algorithms.
+-  I’m currently learning Cirq and Quantum algorithms.
+- I’m looking to collaborate on different projects related to Quantum Computing and ML
 -  Feel free to reach me through LinkedIn 
 
 <!---
