@@ -1,6 +1,5 @@
-- I’m interested in Machine Learning  and Quantum computing algorithms.
--  I’m currently learning Cirq and Quantum algorithms.
-- I’m looking to collaborate on different projects related to Quantum Computing and ML
+- I’m interested in Deep Learning.
+- I’m looking to collaborate on different projects related to Self-Supervised Learning
 -  Feel free to reach me through LinkedIn 
 
 <!---
